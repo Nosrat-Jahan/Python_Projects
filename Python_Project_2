@@ -1,0 +1,8 @@
+username = input("What is your name:")
+fatherName = input("What is your father's name:")
+motherName = input("What is your mother's name:")
+study = input("which class do you read in:")
+relationship = input("tell me about your relationship status:")
+
+print(f"My Doggy name Is {username},My Doggys father name is {fatherName},My mother name is {motherName}"
+      f"this Doggy study in {study} , Our relationship: {relationship}")
